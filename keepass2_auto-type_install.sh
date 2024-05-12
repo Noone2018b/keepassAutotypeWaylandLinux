@@ -1,6 +1,9 @@
 # Keepass 2 Auto-type on Ubuntu 22 LTS (Wayland)
 # Following https://keepass.info/help/kb/autotype_wayland.html
 # 11/05/24
+#
+# Github: https://github.com/Noone2018b/keepassAutotypeWaylandLinux
+#
 
 echo Building KPUinput plugin for Keepass
 
