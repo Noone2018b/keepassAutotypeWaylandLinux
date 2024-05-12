@@ -3,7 +3,7 @@ Script for configuring Keepass auto-type on Linux.
 
 Implements commands as per [Keepass docs](https://keepass.info/help/kb/autotype_wayland.html), which are a bit annoying to do manually:
 
-- Installs prereqs
+- Installs prereqs (note this assumes compilers already available, but pulls necessary libs + Mono)
 - Sets permissions/groups
 - Downloads KPUinput plugin
 - Builds plugin
